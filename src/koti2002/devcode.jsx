@@ -1,1 +1,1 @@
- export const DevCode=()=><h1>DEVcode </h1>;
+ export const DevCode=()=><h1>koti </h1>;
